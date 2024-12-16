@@ -1,0 +1,12 @@
+{
+    "rpc_url": "https://fullnode.sui.io:443",
+    "private_keys": [
+        {"address": "0x...", "key": "base64-encoded-private-key"},
+        {"address": "0x...", "key": "base64-encoded-private-key"}
+    ],
+    "token_address": "0xTokenAddress",
+    "recipients": [
+        {"address": "0xRecipient1", "amount": 100},
+        {"address": "0xRecipient2", "amount": 150}
+    ]
+}
